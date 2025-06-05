@@ -53,4 +53,8 @@ pip install -r requirements.txt
 python bmi_calculator.py
 ```
 ---
+### 🛠️ Tools Used
+- Python 3.x
+- Tkinter
+---
 ## Feel free to use. Made by AD
