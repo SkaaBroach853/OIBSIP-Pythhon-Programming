@@ -5,15 +5,38 @@ A beginner-friendly GUI-based **Body Mass Index (BMI)** Calculator built with Py
 ---
 
 ## 💡 Features
+- GUI built using Tkinter
 
-- Graphical User Interface (GUI)
-- Real-time BMI calculation
-- BMI Category classification:
-  - Underweight: < 18.5
-  - Normal: 18.5 – 24.9
-  - Overweight: 25 – 29.9
-  - Obese: ≥ 30
-- Error handling for invalid inputs
+- Accepts weight in kilograms
+
+- Accepts height in:
+
+  - meters
+
+  - feet
+
+  - inches
+
+- Converts height automatically for BMI calculation
+
+- Shows:
+
+  - Calculated BMI
+
+  - Health category (Underweight, Normal, Overweight, Obese)
+
+- Handles invalid input with error popups
+
+## 🧪 Example
+- Weight: 70 kg
+
+- Height: 5.7
+
+- Unit: feet
+→ Output: BMI ≈ 24.12
+→ Category: Normal weight
+
+
 
 ---
 
