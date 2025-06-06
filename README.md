@@ -58,4 +58,4 @@ Fetches and displays real-time weather data from WeatherAPI for a user-entered c
 📂 Location: `weather_app.py`
 
 ---
-# ❤️ Made by AD 
+#  Made by AD 
