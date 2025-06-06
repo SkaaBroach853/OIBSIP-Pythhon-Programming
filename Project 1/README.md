@@ -42,7 +42,13 @@ A beginner-friendly GUI-based **Body Mass Index (BMI)** Calculator built with Py
 
 ## 📸 Screenshot
 
+![p1 1](https://github.com/user-attachments/assets/57c36997-4d4f-4f7a-80a4-8b883c3a543b)
 
+---
+![p1 2](https://github.com/user-attachments/assets/64e15c06-1ec0-49cd-80f6-3a66c7cdf653)
+
+---
+![p1 3](https://github.com/user-attachments/assets/e2d30817-c418-449c-af5f-fa5c0761ba9f)
 
 ---
 
