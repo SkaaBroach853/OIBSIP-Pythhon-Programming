@@ -20,6 +20,13 @@ A beginner-friendly GUI-based **Random Password Generator** built with Python. U
 ## 📸 Screenshot
 
 
+![p2 1](https://github.com/user-attachments/assets/ee20d380-e290-42f4-a159-580bdb5afe4e)
+
+---
+![p2 2](https://github.com/user-attachments/assets/ace3778f-0cd2-4c9c-af11-620650c88f76)
+
+---
+![p2 3](https://github.com/user-attachments/assets/17aa09e4-7deb-4050-b2f2-2e5455d97ef6)
 
 ---
 
